@@ -17,7 +17,7 @@ import java.util.Scanner;
  * 【评测用例规模与约定】对于 40% 的评测用例，1 &lt;= n &lt;= 10000。对于 80% 的评测用例，1 &lt;= n &lt;= 100000。
  *  对于所有评测用例，1 &lt;= n &lt;= 1000000，1 &lt;= a &lt;= n，1 &lt;= b &lt;= n，1 &lt;= c &lt;= n。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-02 21:42:18
  */
 public class Demo5_反倍数 {

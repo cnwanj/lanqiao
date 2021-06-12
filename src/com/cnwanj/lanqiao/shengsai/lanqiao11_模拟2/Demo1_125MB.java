@@ -7,7 +7,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao11_模拟2;
  * 本题的结果为一个整数，在提交答案时只填写这个整数，填写多余的内容将无法得分。
  * 答案：13107200
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-08-31 16:21:40
  */
 public class Demo1_125MB {

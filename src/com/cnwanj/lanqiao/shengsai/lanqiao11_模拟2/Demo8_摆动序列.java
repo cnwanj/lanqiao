@@ -35,7 +35,7 @@ import java.util.Scanner;
  *
  * 【思路】奇数项都比前一项大，偶数项都比前一项小；简单理解就是 ====> （奇数项 > 偶数项 < 奇数项）
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-09 11:24:28
  */
 public class Demo8_摆动序列 {

@@ -30,7 +30,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao11_模拟2;
  * 对于 60% 的评测用例，1 &lt;= n &lt;= 100；
  * 对于所有评测用例，1 &lt;= n &lt;= 1000，0 &lt;= x, y, h &lt;= 10000。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-09 12:38:29
  */
 public class Demo9_通电 {

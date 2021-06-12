@@ -53,7 +53,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao5;
  * 注意：不要使用package语句。不要使用jdk1.7及以上版本的特性。
  * 注意：主类的名字必须是：Main，否则按无效代码处理。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-07 18:38:17
  */
 public class Demo7_G将军 {

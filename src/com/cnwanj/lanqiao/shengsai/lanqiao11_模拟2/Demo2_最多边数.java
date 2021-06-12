@@ -1,7 +1,7 @@
 package com.cnwanj.lanqiao.shengsai.lanqiao11_模拟2;
 
 /**
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-08-31 17:06:07
  * @description:
  *

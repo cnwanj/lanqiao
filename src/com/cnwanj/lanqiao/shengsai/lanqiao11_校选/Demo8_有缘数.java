@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @description:
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-16 22:07:43
  *
  * 8.（程序题 10分）质数（Prime number，又称素数），

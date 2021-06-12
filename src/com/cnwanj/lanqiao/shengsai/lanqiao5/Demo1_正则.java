@@ -12,7 +12,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao5;
  *
  * 答案：[^0-9]
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-25 10:05:54
  */
 public class Demo1_正则 {

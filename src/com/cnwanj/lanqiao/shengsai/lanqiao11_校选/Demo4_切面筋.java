@@ -2,7 +2,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao11_校选;
 
 /**
  * @description:
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-16 20:47:31
  *
  * 4.（填空题15分）现假设有一根足够长的面筋，

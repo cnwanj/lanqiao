@@ -27,7 +27,7 @@ import java.util.Scanner;
  * 对于 70% 的评测用例，2 &lt;= n, m &lt;= 100。
  * 对于所有评测用例，2 &lt;= n, m &lt;= 1000，1 &lt;= r &lt;= n，1 &lt;= c &lt;= m。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-06 21:37:11
  */
 public class Demo7_螺旋 {

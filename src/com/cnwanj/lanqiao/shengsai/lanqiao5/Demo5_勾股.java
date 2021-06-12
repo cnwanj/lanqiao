@@ -45,7 +45,7 @@ import java.util.Scanner;
  * 优化：单循环遍历，斜边^2 - 直角边^2 = 直角边^2 ---> c^2 - b^2 = a^2
  * 若 a + b > c (条件成立)
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-06 13:37:55
  */
 public class Demo5_勾股 {

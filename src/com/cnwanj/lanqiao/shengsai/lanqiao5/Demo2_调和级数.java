@@ -23,7 +23,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao5;
  *
  * 答案：1835421
  *
- * @author: 韦永恒
+ * @author: cnwanj
  * @date: 2020-09-25 10:34:51
  */
 public class Demo2_调和级数 {

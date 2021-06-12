@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @description:
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-16 21:58:17
  *
  * （程序题 20分）已知一个整数序列A=(a0,a1,…，an-1),其中0≤ai<n(0≤i<n)。

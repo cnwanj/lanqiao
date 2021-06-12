@@ -15,7 +15,7 @@ import java.util.Set;
  *
  * 答案： 14
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-01 15:00:28
  */
 public class Demo4_括号序列 {

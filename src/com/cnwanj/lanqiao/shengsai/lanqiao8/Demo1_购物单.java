@@ -80,7 +80,7 @@ package com.cnwanj.lanqiao.shengsai.lanqiao8;
  * 【答案】
  * 5200
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-13 18:56:30
  */
 public class Demo1_购物单 {

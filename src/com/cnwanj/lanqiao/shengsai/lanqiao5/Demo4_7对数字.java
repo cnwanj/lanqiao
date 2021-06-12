@@ -21,7 +21,7 @@ import java.util.Arrays;
  *
  * 答案：7, 4, 1, 5, 1, 6, 4, 3, 7, 5, 2, 3, 6, 2
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-25 12:03:16
  */
 public class Demo4_7对数字 {

@@ -78,7 +78,7 @@ import java.util.Scanner;
  *
  * 思路：宫内检测、行列检测 ---> 循环递归、无解回溯
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-06 19:02:32
  */
 public class Demo6_数独 {

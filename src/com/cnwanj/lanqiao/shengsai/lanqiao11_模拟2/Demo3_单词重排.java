@@ -16,7 +16,7 @@ import java.util.Set;
  *
  * 答案：2520
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-08-31 17:25:20
  */
 public class Demo3_单词重排 {

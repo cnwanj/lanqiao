@@ -15,7 +15,7 @@ import java.util.Scanner;
  * 【样例输出】odqtldr
  * 【评测用例规模与约定】对于所有评测用例，单词中的字母个数不超过100。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-03 23:17:46
  */
 public class Demo6_凯撒加密 {

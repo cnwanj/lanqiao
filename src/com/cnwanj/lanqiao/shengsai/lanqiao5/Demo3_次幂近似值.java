@@ -16,7 +16,7 @@ import java.text.DecimalFormat;
  * 答案：506184
  * 2.5061841991715896
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-09-25 11:07:59
  */
 public class Demo3_次幂近似值 {

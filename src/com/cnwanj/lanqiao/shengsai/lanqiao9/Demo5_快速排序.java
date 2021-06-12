@@ -13,7 +13,7 @@ import java.util.Random;
  *
  * 请仔细阅读分析源码，填写划线部分缺失的内容。
  *
- * @author: 韦永恒
+ * @author: cnwnaj
  * @date: 2020-10-14 19:07:38
  */
 public class Demo5_快速排序 {
